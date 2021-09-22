@@ -1,10 +1,27 @@
-.namn{
-    text-align: center;
-    border: 1px solid black;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-right: auto;
-  margin-left: auto;
-  background-color:rgb(0, 153, 255);
-  border-radius: 17px;
-}   
+body{
+  background-image: url(https://wallpapers-hub.art/wallpaper-images/308611.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
+ul{
+  list-style: none;
+  position: absolute;
+  right: 20%;
+  top: 30%;
+  font-size: 50px;
+  font-family: "Bursh Script MT", cursive;
+}
+a:link, a:visited{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  font-size: 120%;
+}
