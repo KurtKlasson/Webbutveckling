@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200&display=swap');
+*{
+    background-color: black;
+    margin: 0px;
+    color: white;
+    
+}
+
+header{
+    position: sticky;
+    border-bottom: 2px solid white;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px; 
+}
+
+h1{
+    text-align: center;
+    font-family: 'Stick No Bills', sans-serif
+}
+
+img{
+    position: absolute;
+}
+
+.fas{
+    font-size: 30px;
+    position: absolute;
+}
+
+.fa-id-card{
+    right: 5%;
+    top: 2%;
+}
+
+.fa-coins{
+    left: 15%;
+}
+
+.vanster{
+    margin-left: 7%;
+    margin-right: 60%;
+    margin-top: 5%;
+}
+
+
+
+.aktier img{
+    width: 400px;
+    height: 300px;
+    right: 25%;
+    top: 10%;
+}
+
+.hoger{
+    margin-left: 60%;
+    margin-right: 7%;
+    margin-top: 10%;
+}
+
+
+.boxning img{
+    width: 500px;
+    height: 350px;
+    left: 10%;
+    top: 50%;
+}
+
+
+
+.fotboll img{
+    width: 550px;
+    height: 300px;
+    top: 95%;
+    right: 10%;
+}
+
+
+.spela img{
+    width: 500px;
+    height: 300px;
+    left: 100px;
+    top: 1400px
+}
+
+footer{
+    border-top: 2px solid white;
+    margin-top: 300px;
+    margin-bottom: 400px;
+}
