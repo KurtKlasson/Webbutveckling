@@ -26,11 +26,23 @@ img{
 .fas{
     font-size: 30px;
     position: absolute;
+    top: 2%;
+}
+
+.fa-running{
+    left: 30%;
+}
+
+.fa-futbol{
+    right: 30%; 
+}
+
+.fa-gamepad{
+    right: 15%;
 }
 
 .fa-id-card{
     right: 5%;
-    top: 2%;
 }
 
 .fa-coins{
@@ -46,10 +58,9 @@ img{
 
 
 .aktier img{
-    width: 400px;
-    height: 300px;
-    right: 25%;
-    top: 10%;
+    width: 30%;
+    right: 20%;
+    top: 15%;
 }
 
 .hoger{
@@ -60,27 +71,24 @@ img{
 
 
 .boxning img{
-    width: 500px;
-    height: 350px;
+    width: 30%;
     left: 10%;
-    top: 50%;
+    top: 72%;
 }
 
 
 
 .fotboll img{
-    width: 550px;
-    height: 300px;
-    top: 95%;
+    width: 30%;
+    top: 130%;
     right: 10%;
 }
 
 
 .spela img{
-    width: 500px;
-    height: 300px;
-    left: 100px;
-    top: 1400px
+    width: 30%;
+    left: 10%;
+    top: 190%;
 }
 
 footer{
