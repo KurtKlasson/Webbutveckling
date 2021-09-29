@@ -9,7 +9,7 @@
 header{
     position: sticky;
     border-bottom: 2px solid white;
-    top: 0px;
+    margin-top: 20px;
     margin-left: 100px;
     margin-right: 100px; 
 }
@@ -21,6 +21,7 @@ h1{
 
 img{
     position: absolute;
+    width: 30%;
 }
 
 .fas{
@@ -29,23 +30,23 @@ img{
     top: 2%;
 }
 
-.fa-running{
+.tredje{
     left: 30%;
 }
 
-.fa-futbol{
+.fjarde{
     right: 30%; 
 }
 
-.fa-gamepad{
+.femte{
     right: 15%;
 }
 
-.fa-id-card{
+.sjatte{
     right: 5%;
 }
 
-.fa-coins{
+.andra{
     left: 15%;
 }
 
@@ -57,8 +58,7 @@ img{
 
 
 
-.aktier img{
-    width: 30%;
+.rubrik-1 img{
     right: 20%;
     top: 15%;
 }
@@ -70,34 +70,26 @@ img{
 }
 
 
-.boxning img{
-    width: 30%;
+.rubrik-2 img{
     left: 10%;
     top: 72%;
 }
 
 
 
-.fotboll img{
-    width: 30%;
+.rubrik-3 img{
     top: 130%;
     right: 10%;
 }
 
 
-.spela img{
-    width: 30%;
+.rubrik-4 img{
     left: 10%;
     top: 190%;
 }
 
 footer{
     border-top: 2px solid white;
-    margin-top: 25px;
-    margin-bottom: 250px;
-}
-
-.fab{
-    font-size: 30px;
-    position: absolute;
+    margin-top: 300px;
+    margin-bottom: 400px;
 }
