@@ -56,8 +56,6 @@ img{
     margin-top: 5%;
 }
 
-
-
 .rubrik-1 img{
     right: 20%;
     top: 15%;
@@ -69,19 +67,15 @@ img{
     margin-top: 10%;
 }
 
-
 .rubrik-2 img{
     left: 10%;
     top: 72%;
 }
 
-
-
 .rubrik-3 img{
     top: 130%;
     right: 10%;
 }
-
 
 .rubrik-4 img{
     left: 10%;
@@ -91,5 +85,7 @@ img{
 footer{
     border-top: 2px solid white;
     margin-top: 300px;
-    margin-bottom: 400px;
+    margin-bottom: 200px;
+    text-align: center;
+    font-size: 30px;
 }
