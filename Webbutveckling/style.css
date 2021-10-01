@@ -29,7 +29,7 @@ ul{
   font-size: 50px;
   font-family: "Bursh Script MT", cursive;
   display: inline-block;
-  padding-left: 100px;
+  margin-left: 100px;
 }
 
 a{
@@ -44,4 +44,5 @@ a:link, a:visited{
 a:hover{
   text-decoration: none;
   margin-left: 10px;
+  transition: 0.5s;
 }
