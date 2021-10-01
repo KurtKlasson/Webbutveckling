@@ -102,6 +102,6 @@ footer{
   }
   
   ::-webkit-scrollbar-thumb {
-    background: white;
+    background: white ;
     border-radius: 10px;
   }
